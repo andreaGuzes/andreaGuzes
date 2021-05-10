@@ -42,7 +42,7 @@
 ![Profile views](https://gpvc.arturio.dev/andreaGuzes)  
 </br>
 </br>
-<img src ='https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif' height='80' width ='80'>
+<img src ='https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif' height='200' width ='200'>
 
 
  
