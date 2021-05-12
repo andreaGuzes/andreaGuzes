@@ -9,7 +9,7 @@
 <table  border="1" align="center">
 <tr align="center">
     <td><img src ='https://media.giphy.com/media/cpzRH0kMVEGV8bVxLn/giphy.gif' height='100' width ='100'></td>
-    <td>- 👩‍💻Estoy iniciando mi inserción laboral en el sector tecnológico <br> - 🤯 Soy curiosa y me encanta aprender <br>- ⚡ Dato curioso: Estudié Química 👩‍🔬</td>
+    <td>- 👩‍💻Estoy iniciando mi inserción laboral en el sector tecnológico <br> - 🤯 Soy curiosa y me encanta aprender <br>- ⚡ 
 </tr>
 </table>
 
